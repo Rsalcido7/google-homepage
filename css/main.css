@@ -1,0 +1,28 @@
+.view-port {
+    display: grid;
+}
+
+.main, img {
+    align-self: center;
+}
+
+.search-form {
+    display: block;
+    margin: auto;
+}
+
+.search-form input {
+    border-radius: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 150px;
+    padding-right: 150px;
+
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.buttons {
+    display: block;
+    margin: auto;
+}
